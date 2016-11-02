@@ -1,0 +1,23 @@
+{
+  "name": "express-mysql-example",
+  "version": "1.0.0",
+  "description": "A simple example of how to connect to a MYSQL database using NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonydelgado/express-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonydelgado/express-mysql/issues"
+  },
+  "homepage": "https://github.com/anthonydelgado/express-mysql#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mysql": "^2.11.1"
+  }
+}
